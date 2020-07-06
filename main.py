@@ -11,7 +11,7 @@
 # OR CONDITIONS OF ANY KIND, either express or implied. See the Licence permissions                    #
 # and limitations under the Licence.                                                                   #
 ########################################################################################################
-@author: Alvaro
+@author: Alvaro Cubi
 """
 from functions import trajectory, vtk_file
 
